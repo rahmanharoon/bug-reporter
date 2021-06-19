@@ -1,0 +1,14 @@
+export const ADD_BUG = "ADD_BUG";
+export const ADD_TECH = "ADD_TECH";
+export const GET_BUGS = "GET_BUGS";
+export const GET_TECHS = "GET_TECHS";
+export const UPDATE_BUG = "UPDATE_BUG";
+export const CLEAR_BUGS = "CLEAR_BUGS";
+export const DELETE_BUG = "DELETE_BUG";
+export const BUGS_ERROR = "BUGS_ERROR";
+export const SEARCH_BUGS = "SEARCH_BUGS";
+export const DELETE_TECH = "DELETE_TECH";
+export const TECHS_ERROR = "TECHS_ERROR";
+export const SET_CURRENT = "SET_CURRENT";
+export const SET_LOADING = "SET_LOADING";
+export const CLEAR_CURRENT = "CLEAR_CURRENT";

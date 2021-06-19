@@ -1,0 +1,30 @@
+{
+  "bugs": [
+    {
+      "id": 1,
+      "message": "change network",
+      "attention": true,
+      "tech": "Stephen Jobs",
+      "date": "2021-06-19T18:23:46.085Z"
+    },
+    {
+      "message": "New bugs",
+      "attention": false,
+      "tech": "Rahman Haroon",
+      "date": "2021-06-19T18:23:54.793Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Curran"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 3
+    }
+  ]
+}
